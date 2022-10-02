@@ -68,6 +68,6 @@ Here are the top 7 applications of the stack in data structure:
 - Syntax Parsing
 - Memory Management
 
-###### Links to Refered:
+# Links to Refered:
 - [Geeksforgeeks](https://www.geeksforgeeks.org/stack-data-structure/#:~:text=Stack%20is%20a%20linear%20data,one%20another%20in%20the%20canteen.)
 - [Javatutorial](https://www.javatpoint.com/data-structure-stack)
