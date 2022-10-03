@@ -60,7 +60,7 @@ void main(){
         scanf("%d",&array[i]);
     }
 
-    merge_sort(array,l);
+    merge_sort(array,0,l);
     printf("The Sorted Array is: ");
     for(i=0;i<l;i++){
         printf("%d ",array[i]);
