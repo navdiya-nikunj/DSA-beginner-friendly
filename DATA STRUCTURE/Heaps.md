@@ -35,7 +35,7 @@ Example :
 - A binary heap follows level order traversal, which means every node on a level is visited before going on to the next level. In this way, a binary heap can easily be stored in an array. 
 
 
-# Operation on Heap Data Structure
+## Operation on Heap Data Structure
 
 - **Heapify :** a process of creating a heap from an array.
 
