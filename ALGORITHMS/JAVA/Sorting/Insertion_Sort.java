@@ -23,6 +23,6 @@ public class Insertion_Sort
   {
     int Numbers[] = {3,6,2,1,8,7,5,4,3,1};
     
-    insertionSort(arr);
+    insertionSort(Numbers);
   }  
 }  
