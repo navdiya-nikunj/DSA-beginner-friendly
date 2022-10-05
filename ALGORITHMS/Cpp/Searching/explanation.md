@@ -4,7 +4,7 @@ Linear search is a sequential search algorithm that start from one of the end an
 It is one of the easiest and simplest searching algorithm.
 
 
-![Getting Started](linear-search.jpg)
+(linear-search.jpg)
 
 
     Input: arr[] = {10, 20, 80, 30, 60, 50,110, 100, 130, 170}, x = 110;
