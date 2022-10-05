@@ -3,8 +3,8 @@
 Linear search is a sequential search algorithm that start from one of the end and goes through each element, if the desired element is matched then the search stops otherwise the search will go on to the other end of the data set.
 It is one of the easiest and simplest searching algorithm.
 
+<img src="https://raw.githubusercontent.com/navdiya-nikunj/DSA-beginner-friendly/ALGORITHMS/Cpp/Searching/master/linear-search.jpg">
 
-(linear-search.jpg)
 
 
     Input: arr[] = {10, 20, 80, 30, 60, 50,110, 100, 130, 170}, x = 110;
